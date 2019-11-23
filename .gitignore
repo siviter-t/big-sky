@@ -1,0 +1,10 @@
+# Node
+npm-debug.log*
+node_modules/
+
+# Build
+.cache/
+dist/
+
+# Editors
+.vscode/*
